@@ -1,1 +1,0 @@
-# covid-in-ns
